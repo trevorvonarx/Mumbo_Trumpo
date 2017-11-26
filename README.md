@@ -7,7 +7,7 @@ Twitter profile, in this case, Donald Trump's Twitter (@realDonaldTrump) discard
 
 A demo of my project can be viewed here: 
 
-Below is the processing sketch I have created, feel free to download and try for yourself! (note that you would need to create a twitter dev account/program and obtain and insert your unique ConsumerKey, ConsumerSecret, AccessToken, and AccessTokenSecret. I have omitted mine and replaced with "---" below.
+Below is the processing sketch I have created, feel free to download and try for yourself! (note that you would need to create a twitter dev account/program and obtain and insert your unique ConsumerKey, ConsumerSecret, AccessToken, and AccessTokenSecret. I have omitted mine and replaced with "---" below).
 
 ---
 
