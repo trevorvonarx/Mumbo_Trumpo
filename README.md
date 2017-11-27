@@ -10,7 +10,7 @@ A demo of my project can be viewed here:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=GSdFgdBSzPM" target="_blank"><img src="http://img.youtube.com/vi/GSdFgdBSzPM/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-Below is the processing sketch I have created, feel free to download and try for yourself! (note that you would need to create a twitter dev account/program and obtain and insert your unique ConsumerKey, ConsumerSecret, AccessToken, and AccessTokenSecret. I have omitted mine and replaced with "---" below).
+Below is the processing sketch I have created, feel free to download and try for yourself! (note that you would need to create a twitter dev account/program and obtain and insert your unique ConsumerKey, ConsumerSecret, AccessToken, and AccessTokenSecret. I have omitted mine and replaced with "---" below. You must also dowload processing and the twitter4j library).
 
 ---
 
